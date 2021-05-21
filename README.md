@@ -1,4 +1,4 @@
-![banner](https://imgur.com/a/d3O2ljp)
+![banner](https://i.imgur.com/lwPsLDU.png)
 
 ## Kotlin-Picasso
 
